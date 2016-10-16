@@ -1,2 +1,0 @@
-defmodule ElixirGameOfLife do
-end
